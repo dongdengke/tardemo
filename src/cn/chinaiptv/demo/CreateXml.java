@@ -70,5 +70,7 @@ public class CreateXml {
 			e.printStackTrace();
 			logger.error("出现异常，文件读写出现异常 ");
 		}
+		System.out.println("dong");
 	}
+
 }
