@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<platforms>
+	<platformparam>
+		<platform>zte</platform>
+		<cspid>CNTV</cspid>
+		<lspid>HEBEILTZX</lspid>
+	</platformparam>
+	<platformparam>
+		<platform>hua</platform>
+		<cspid>301</cspid>
+		<lspid>301</lspid>
+	</platformparam>
+</platforms>
